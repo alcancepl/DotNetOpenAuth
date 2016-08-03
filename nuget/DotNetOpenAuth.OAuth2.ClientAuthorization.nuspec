@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>DotNetOpenAuth.OAuth2.ClientAuthorization</id>
+		<id>Mvc523.DotNetOpenAuth.OAuth2.ClientAuthorization</id>
 		<version>$oauth2version$</version>
 		<title>DotNetOpenAuth OAuth 2.0 Client Authorization</title>
 		<authors>Andrew Arnott, David Christiansen</authors>
@@ -12,7 +12,7 @@
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>Functionality common to both OAuth 2.0 Clients and Authorization Servers.</description>
 		<dependencies>
-			<dependency id="DotNetOpenAuth.OAuth2.Core" version="[$oauth2version$]" />
+			<dependency id="Mvc523.DotNetOpenAuth.OAuth2.Core" version="[$oauth2version$]" />
 		</dependencies>
 	</metadata>
 	<files>

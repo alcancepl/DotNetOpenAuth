@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>$identity$.Core</id>
+		<id>Mvc523.$identity$.Core</id>
 		<version>$oauth2version$</version>
 		<title>DotNetOpenAuth OAuth 2.0 Core</title>
 		<authors>Andrew Arnott, David Christiansen</authors>
@@ -13,8 +13,8 @@
 		<summary>Common functionality required to implement an OAuth 2.0 client, authorization server or resource server.</summary>
 		<description>This package contains shared code for other NuGet packages, and contains no public API in and of itself.</description>
 		<dependencies>
-			<dependency id="DotNetOpenAuth.Core" version="[$version$]" />
-			<dependency id="DotNetOpenAuth.OAuth.Common" version="[$version$]" />
+			<dependency id="Mvc523.DotNetOpenAuth.Core" version="[$version$]" />
+			<dependency id="Mvc523.DotNetOpenAuth.OAuth.Common" version="[$version$]" />
 		</dependencies>
 	</metadata>
 	<files>

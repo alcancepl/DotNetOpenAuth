@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>$identity$</id>
+		<id>Mvc523.$identity$</id>
 		<version>$version$</version>
 		<title>DotNetOpenAuth OAuth 1.0(a) Service Provider</title>
 		<authors>Andrew Arnott, David Christiansen</authors>
@@ -16,7 +16,7 @@
 			all without disclosing their login credential with you to 3rd parties.
 		</description>
 		<dependencies>
-			<dependency id="DotNetOpenAuth.OAuth.Core" version="[$version$]" />
+			<dependency id="Mvc523.DotNetOpenAuth.OAuth.Core" version="[$version$]" />
 		</dependencies>
 	</metadata>
 	<files>

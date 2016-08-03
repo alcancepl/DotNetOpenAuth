@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>DotNetOpenAuth.Mvc</id>
+		<id>Mvc523.DotNetOpenAuth.Mvc</id>
 		<version>$version$</version>
 		<title>DotNetOpenAuth MVC extensions</title>
 		<authors>Andrew Arnott, David Christiansen</authors>
@@ -13,7 +13,7 @@
 		<summary>Provides the HttpResponseMessage.AsActionResult() extension method.</summary>
 		<description>Provides the HttpResponseMessage.AsActionResult() extension method.</description>
 		<dependencies>
-			<dependency id="DotNetOpenAuth.Core" version="[$version$]" />
+			<dependency id="Mvc523.DotNetOpenAuth.Core" version="[$version$]" />
 			<dependency id="Microsoft.AspNet.Mvc" version="[5.0.0,6.0)" />
 			<dependency id="Microsoft.AspNet.Razor" version="[3.0.0,4.0)" />
 			<dependency id="Microsoft.AspNet.WebPages" version="[3.0.0,4.0)" />

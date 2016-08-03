@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>$identity$</id>
+		<id>Mvc523.$identity$</id>
 		<version>$version$</version>
 		<title>DotNetOpenAuth OpenID Provider (ASP.NET controls)</title>
 		<authors>Andrew Arnott, David Christiansen</authors>
@@ -18,8 +18,8 @@
 			authentication delegation.
 		</description>
 		<dependencies>
-			<dependency id="DotNetOpenAuth.OpenId.Core.UI" version="[$version$]" />
-			<dependency id="DotNetOpenAuth.OpenId.Provider" version="[$version$]" />
+			<dependency id="Mvc523.DotNetOpenAuth.OpenId.Core.UI" version="[$version$]" />
+			<dependency id="Mvc523.DotNetOpenAuth.OpenId.Provider" version="[$version$]" />
 		</dependencies>
 	</metadata>
 	<files>

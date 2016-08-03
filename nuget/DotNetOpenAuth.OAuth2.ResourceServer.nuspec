@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>$identity$</id>
+		<id>Mvc523.$identity$</id>
 		<version>$oauth2version$</version>
 		<title>DotNetOpenAuth OAuth 2.0 Resource Server</title>
 		<authors>Andrew Arnott, David Christiansen</authors>
@@ -17,7 +17,7 @@
 			to share their data between your service and those of the 3rd party.
 		</description>
 		<dependencies>
-			<dependency id="DotNetOpenAuth.OAuth2.Core" version="[$oauth2version$]" />
+			<dependency id="Mvc523.DotNetOpenAuth.OAuth2.Core" version="[$oauth2version$]" />
 		</dependencies>
 	</metadata>
 	<files>

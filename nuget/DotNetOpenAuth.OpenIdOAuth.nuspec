@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>$identity$</id>
+		<id>Mvc523.$identity$</id>
 		<version>$version$</version>
 		<title>DotNetOpenAuth OpenID OAuth hybrid</title>
 		<authors>Andrew Arnott, David Christiansen</authors>
@@ -16,9 +16,9 @@
 			so that the relying party may also directly access the user's data on the OpenID Provider's web service.
 		</description>
 		<dependencies>
-			<dependency id="DotNetOpenAuth.OAuth.Consumer" version="[$version$]" />
-			<dependency id="DotNetOpenAuth.OAuth.ServiceProvider" version="[$version$]" />
-			<dependency id="DotNetOpenAuth.OpenId.Core" version="[$version$]" />
+			<dependency id="Mvc523.DotNetOpenAuth.OAuth.Consumer" version="[$version$]" />
+			<dependency id="Mvc523.DotNetOpenAuth.OAuth.ServiceProvider" version="[$version$]" />
+			<dependency id="Mvc523.DotNetOpenAuth.OpenId.Core" version="[$version$]" />
 		</dependencies>
 	</metadata>
 	<files>

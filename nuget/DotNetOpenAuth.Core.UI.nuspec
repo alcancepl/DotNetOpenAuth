@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>$identity$</id>
+		<id>Mvc523.$identity$</id>
 		<version>$version$</version>
 		<title>DotNetOpenAuth Core (ASP.NET controls)</title>
 		<authors>Andrew Arnott, David Christiansen</authors>
@@ -14,7 +14,7 @@
 		<description>This package contains shared code for other NuGet packages, and contains no public API in and of itself.</description>
 		<language>en-US</language>
 		<dependencies>
-			<dependency id="DotNetOpenAuth.Core" version="[$version$]" />
+			<dependency id="Mvc523.DotNetOpenAuth.Core" version="[$version$]" />
 		</dependencies>
 	</metadata>
 	<files>

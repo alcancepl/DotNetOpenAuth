@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>$identity$</id>
+		<id>Mvc523.$identity$</id>
 		<version>$oauth2version$</version>
 		<title>DotNetOpenAuth OAuth 2.0 Client</title>
 		<authors>Andrew Arnott, David Christiansen</authors>
@@ -16,7 +16,7 @@
 			data on 3rd party services rather than asking for their password.
 		</description>
 		<dependencies>
-			<dependency id="DotNetOpenAuth.OAuth2.ClientAuthorization" version="[$oauth2version$]" />
+			<dependency id="Mvc523.DotNetOpenAuth.OAuth2.ClientAuthorization" version="[$oauth2version$]" />
 			<dependency id="Microsoft.AspNet.WebApi.Client" version="[5.0,6.0)" />
 		</dependencies>
 	</metadata>
